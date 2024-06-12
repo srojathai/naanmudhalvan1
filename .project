@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>C%%Users%HP%Katalon Studio%My First Web UI Project (1)%My First Web UI Project (1).prj</name>
+	<name>C%%Users%HP%Katalon Studio%sorna-pro%sorna-pro.prj</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -17,7 +17,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1718096810053</id>
+			<id>1718185751368</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -26,7 +26,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1718096810061</id>
+			<id>1718185751378</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -35,7 +35,7 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1718096810860</id>
+			<id>1718186504986</id>
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -44,7 +44,25 @@
 			</matcher>
 		</filter>
 		<filter>
-			<id>1718096810869</id>
+			<id>1718186505001</id>
+			<name></name>
+			<type>6</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>(.*\.svn-base$)|(.*\.png$)|(.*\.log$)|(.*\.xlsx$)|(.*\.xls$)|(.*\.csv$)|(.*\.txt$)</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1718186557724</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1718186557740</id>
 			<name></name>
 			<type>6</type>
 			<matcher>
